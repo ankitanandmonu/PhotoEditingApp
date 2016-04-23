@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoEditingApp</string>
+    <string name="action_select">Select Image</string>
+</resources>
